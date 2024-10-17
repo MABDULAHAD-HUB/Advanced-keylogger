@@ -33,4 +33,25 @@ Follow these steps to set up the project on your local machine:
    git clone https://github.com/yourusername/keylogger.git
    cd keylogger
    ```
-2.
+2. **Manually Install Required Packages**:
+   ```bash
+   pip install pynput
+   ```
+   ```bash
+   pip install pyautogui
+   ```
+   ```bash
+   pip install clipboard
+   ```
+   ```bash
+   pip install Pillow
+   ```
+## Usage 📖
+1. Open your terminal or command prompt.
+2. Navigate to the project directory where you cloned the repository.
+3. Run the following command:
+```bash
+python keylogger.py
+```
+```
+<div style="color:red;">**Important**: This tool is intended for educational purposes only. Always obtain permission before using it on any device.</div> ```
