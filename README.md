@@ -1,27 +1,25 @@
-# Keylogger Project 🥷🔑
+# Python Keylogger 🥷🔑
 
-[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Status](https://img.shields.io/badge/Status-Active-green)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/keylogger/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/yourusername/keylogger/releases)
 
-A simple and effective keylogger built in Python that captures keystrokes, takes screenshots, monitors clipboard activity, and sends logs via email. This tool is designed for educational purposes only. **Ensure you have permission before using it on any device.**
+**Description**: This repository contains a Python-based keylogger that captures keystrokes, takes periodic screenshots, and monitors clipboard activity. The captured data is sent via email, making it an effective tool for monitoring user interactions for educational and cybersecurity purposes.
 
----
-
-## Table of Contents 📚
-
-- [Features](#features-✨)
+## Table of Contents
+- [Key Features](#key-features)
 - [Installation](#installation-🛠️)
-- [Usage](#usage-🚀)
+- [Usage](#usage-📖)
 - [License](#license-📜)
+- [Warning](#warning)
 
-## Features ✨
-
-- **Keystroke Logging**: Captures all keystrokes made by the user.
-- **Screenshot Capture**: Takes periodic screenshots and captures on specific key events.
-- **Clipboard Monitoring**: Logs text copied to the clipboard.
-- **Application Monitoring**: Records the active application during keystrokes.
-- **Email Reporting**: Sends logs and screenshots to a specified email address.
+## Key Features
+- **Keystroke Logging**: Logs all user keystrokes in real-time.
+- **Screenshot Capture**: Automatically captures screenshots at specified intervals or events.
+- **Clipboard Monitoring**: Tracks clipboard content to log copied text and images.
+- **Email Reporting**: Sends logs and screenshots to a designated email address.
+- **Stealth Operation**: Operates in the background without alerting users.
 
 ## Installation 🛠️
 
