@@ -1,4 +1,4 @@
-# Python Keylogger 🥷🔑
+# Advanced Keylogger 🥷🔑
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/keylogger/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -28,7 +28,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository**:
    Open your terminal and run:
    ```bash
-   git clone https://github.com/yourusername/keylogger.git
+   git clone https://github.com/MABDULAHAD-HUB/keylogger.git
    cd keylogger
    ```
 2. **Manually Install Required Packages**:
