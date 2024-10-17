@@ -50,7 +50,8 @@ Follow these steps to set up the project on your local machine:
 1. Open your terminal or command prompt.
 2. Navigate to the project directory where you cloned the repository.
 3. Run the following command:
-```bash
-python keylogger.py
-```
-<div style="color:red;">**Important**: This tool is intended for educational purposes only. Always obtain permission before using it on any device.</div> ```
+ ```bash
+ python keylogger.py
+ ```
+## Warning ⚠️: 
+This tool is intended for educational purposes only. Always obtain permission before using it on any device.
