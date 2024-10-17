@@ -53,5 +53,4 @@ Follow these steps to set up the project on your local machine:
 ```bash
 python keylogger.py
 ```
-```
 <div style="color:red;">**Important**: This tool is intended for educational purposes only. Always obtain permission before using it on any device.</div> ```
