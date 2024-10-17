@@ -13,9 +13,6 @@ A simple and effective keylogger built in Python that captures keystrokes, takes
 - [Features](#features-✨)
 - [Installation](#installation-🛠️)
 - [Usage](#usage-🚀)
-- [File Structure](#file-structure-📁)
-- [Screenshots](#screenshots-📸)
-- [Contributing](#contributing-🤝)
 - [License](#license-📜)
 
 ## Features ✨
@@ -35,3 +32,5 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/yourusername/keylogger.git
    cd keylogger
+   ```
+2.
